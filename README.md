@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samikshacode934
-- 👀 I’m interested in ...programming and physics
+- 👀 I’m interested in ...programming and physics and maths
 - 🌱 I’m currently learning ... programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
